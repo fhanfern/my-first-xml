@@ -34,4 +34,9 @@
     <price>$14</price>
     <calorie>400</calorie>
   </food>
+  <food>
+    <name>papaya</name>
+    <price>$16</price>
+    <calorie>150</calorie>
+  </food>
 </menu>
