@@ -1,4 +1,4 @@
-# my-first-xml
+# MY - project
 just for fun - learning code
 
 ## MY Skills
@@ -9,8 +9,3 @@ just for fun - learning code
 - Python 
 - Dashboard
 - Stats & ML
-
-
-## MY Portfolios
-
-Please see my Google Data Studio dashboard [here](https://github.com/fhanfern/my-first-xml/blob/main/Sale_report2022.pdf)
