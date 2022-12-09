@@ -1,5 +1,5 @@
 # my-first-xml
-just for fun - learning xml
+just for fun - learning code
 
 ## MY Skills
 
